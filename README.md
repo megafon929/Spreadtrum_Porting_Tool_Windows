@@ -3,7 +3,7 @@ Spreadtrum Porting Tool | Spreadtrum SC7731(C,G)/SC8830/SC9830 Android 4.4-7.X
 ******************
 Russian
 ------------------
-Версия 1.0
+Версия 1.0.1
 Только для Windows 95 и выше !!! (Скоро будет версия под Linux) (Не проверял на MS-DOS)
 
 Описание: Данная программа облегчает вашу жизнь. Она делает процесс портирования для платформ Spreadtrum SC7731 (C, G) / SC8830 / SC9830 Android 4.4-7.X (не проверенно на других CPU) куда быстрее.
@@ -23,7 +23,7 @@ Russian
 English
 ------------------
 
-Version 1.0
+Version 1.0.1
 Only for Windows 95 and higher !!! (Soon there will be a version under Linux) (Not tested on MS-DOS)
 
 Description: This program makes your life easier. It does the porting process for the Spreadtrum SC7731 (C, G) / SC8830 / SC9830 Android 4.4-7.X platforms (not tested on other CPUs) much faster.
