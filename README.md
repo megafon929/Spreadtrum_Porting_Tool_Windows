@@ -32,7 +32,7 @@ What she knows: She knows how to port firmwares, fix bugs
 
 What it does not know: Deodex, port boot.img, work with APK, edit build.prop
 
-README.TXT README.TXT README.TXT REQUIRED
+MANDATORY READING README.TXT
 
 Performance on smartphones Samsung, HTC does not guarantee
 
