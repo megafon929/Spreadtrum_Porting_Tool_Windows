@@ -1,30 +1,38 @@
-# Spreadtrum_Porting_Tool_V1.0.1
+Spreadtrum_Porting_Tool_V1.0.1
+------------------------------
 Spreadtrum Porting Tool | Spreadtrum SC7731(C,G)/SC8830/SC9830 Android 4.4-7.X
-******************
+------------------------------
 Russian
-------------------
-Версия 1.0
-Только для Windows 95 и выше !!! (Скоро будет версия под Linux) (Не проверял на MS-DOS)
+******************************
+Р’РµСЂСЃРёСЏ 1.0.1 РўРѕР»СЊРєРѕ РґР»СЏ Windows 95 Рё РІС‹С€Рµ !!! (РЎРєРѕСЂРѕ Р±СѓРґРµС‚ РІРµСЂСЃРёСЏ РїРѕРґ Linux) (РќРµ РїСЂРѕРІРµСЂСЏР» РЅР° MS-DOS)
 
-Описание: Данная программа облегчает вашу жизнь. Она делает процесс портирования для платформ Spreadtrum SC7731 (C, G) / SC8830 / SC9830 Android 4.4-7.X (не проверенно на других CPU) куда быстрее.
+РћРїРёСЃР°РЅРёРµ: Р”Р°РЅРЅР°СЏ РїСЂРѕРіСЂР°РјРјР° РѕР±Р»РµРіС‡Р°РµС‚ РІР°С€Сѓ Р¶РёР·РЅСЊ. РћРЅР° РґРµР»Р°РµС‚ РїСЂРѕС†РµСЃСЃ РїРѕСЂС‚РёСЂРѕРІР°РЅРёСЏ РґР»СЏ РїР»Р°С‚С„РѕСЂРј Spreadtrum SC7731 (C, G) / SC8830 / SC9830 Android 4.4-7.X (РЅРµ РїСЂРѕРІРµСЂРµРЅРЅРѕ РЅР° РґСЂСѓРіРёС… CPU) РєСѓРґР° Р±С‹СЃС‚СЂРµРµ.
 
-Что она умеет: Она умеет портировать прошивки, исправлять баги
+Р§С‚Рѕ РѕРЅР° СѓРјРµРµС‚: РћРЅР° СѓРјРµРµС‚ РїРѕСЂС‚РёСЂРѕРІР°С‚СЊ РїСЂРѕС€РёРІРєРё, РёСЃРїСЂР°РІР»СЏС‚СЊ Р±Р°РіРё
 
-Что она не умеет: Деодексировать, портировать boot.img, работать с APK, править build.prop
+Р§С‚Рѕ РѕРЅР° РЅРµ СѓРјРµРµС‚: Р”РµРѕРґРµРєСЃРёСЂРѕРІР°С‚СЊ, РїРѕСЂС‚РёСЂРѕРІР°С‚СЊ boot.img, СЂР°Р±РѕС‚Р°С‚СЊ СЃ APK, РїСЂР°РІРёС‚СЊ build.prop
 
-ОБЯЗАТЕЛЬНО ЧИТАЕМ README.TXT, КОТОРЫЙ ЕСТЬ ВНУТРИ АРХИВА
+РћР‘РЇР—РђРўР•Р›Р¬РќРћ Р§РРўРђР•Рњ README.TXT
 
-Работоспособность на смартфонах Samsung, HTC не гарантирует
+Р Р°Р±РѕС‚РѕСЃРїРѕСЃРѕР±РЅРѕСЃС‚СЊ РЅР° СЃРјР°СЂС‚С„РѕРЅР°С… Samsung, HTC РЅРµ РіР°СЂР°РЅС‚РёСЂСѓРµС‚
 
-Инструкция:
-Всё просто, в папку ROM закидываем всё из папки system прошивки, которую мы хотим портировать, в папку STOCK закидываем всё из папки system вашего устройства. Затем двойным кликом запускаем PortingTool.bat, проходит процесс и всё готово. Закидываем из папки ROM всё в папку system. В случаи обнаружении багов запускаем *.bat (- что нужно исправить) и готово.
+РРЅСЃС‚СЂСѓРєС†РёСЏ
+------------------------------
+Р”Р»СЏ РЅР°С‡Р°Р»Р°, РЅР°Рј РЅСѓР¶РЅРѕ РґРІР° Р°СЂС…РёРІР°. РђСЂС…РёРІ СЃРѕ СЃС‚РѕРєРѕРІРѕР№ РїСЂРѕС€РёРІРєРѕР№, Рё РїСЂРѕС€РёРІРєРѕР№, РєРѕС‚РѕСЂСѓСЋ С…РѕС‚РёРј РїРѕСЂС‚РёСЂРѕРІР°С‚СЊ.
 
-******************
+    РћС‚РєСЂС‹РІР°РµРј РѕР±Р° Р°СЂС…РёРІР° Рё РґРѕСЃС‚Р°РµРј РёР· РЅРёС… РїР°РїРєСѓ system, Рё СЂР°СЃРїР°РєРѕРІС‹РІР°РµРј РІ СѓРґРѕР±РЅРѕРµ РґР»СЏ РІР°СЃ РјРµСЃС‚Рѕ;
+    РљР°С‡Р°РµРј Spreadtrum Porting Tool РёР· С€Р°РїРєРё;
+    Р Р°СЃРїР°РєРѕРІС‹РІР°РµРј СЃРѕРґРµСЂР¶РёРјРѕРµ РІ Р»СЋР±СѓСЋ РїР°РїРєСѓ;
+    РљРѕРїРёСЂСѓРµРј СЃРѕРґРµСЂР¶РёРјРѕРµ РїР°РїРєРё system СЃРѕ СЃС‚РѕРєР° РІ РїР°РїРєСѓ stock Рё СЃРѕРґРµСЂР¶РёРјРѕРµ РїР°РїРєРё system РѕС‚ РїРѕСЂС‚Р° РІ РїР°РїРєСѓ port РѕС‚ СЂР°СЃРїР°РєРѕРІР°РЅРЅРѕРіРѕ Р°СЂС…РёРІР° Spreadtrum Porting Tool;
+    Р”Р°Р»РµРµ РІС‹Р±РёСЂР°РµРј .bat С„Р°Р№Р» PortingTool.bat Рё Р¶РґС‘Рј Р·Р°РІРµСЂС€РµРЅРёСЏ РїСЂРѕС†РµСЃСЃР°.
+
+Р’ РїР°РїРєРµ port Р±СѓРґРµС‚ РЅР°С…РѕРґРёС‚СЊСЃСЏ РїРѕСЂС‚РёСЂРѕРІР°РЅРЅРѕРµ СЃРѕРґРµСЂР¶РёРјРѕРµ system РѕС‚ РїРѕСЂС‚Р°. РћСЃС‚Р°Р»РѕСЃСЊ С‚РѕР»СЊРєРѕ СЃРѕР·РґР°С‚СЊ Р°СЂС…РёРІ РґР»СЏ РїСЂРѕС€РёРІРєРё Рё РїСЂРѕС‚РµСЃС‚РёСЂРѕРІР°С‚СЊ.
+
+Р’ СЃР»СѓС‡Р°Рё РЅРµРѕР±С…РѕРґРёРјРѕСЃС‚Рё Р·Р°РїСѓСЃС‚РёС‚СЊ *.bat (РіРґРµ *- С‚Рѕ, С‡С‚Рѕ РЅСѓР¶РЅРѕ РёСЃРїСЂР°РІРёС‚СЊ)
+------------------------------
 English
-------------------
-
-Version 1.0
-Only for Windows 95 and higher !!! (Soon there will be a version under Linux) (Not tested on MS-DOS)
+******************************
+Version 1.0.1 Only for Windows 95 and higher !!! (Soon there will be a version under Linux) (Not tested on MS-DOS)
 
 Description: This program makes your life easier. It does the porting process for the Spreadtrum SC7731 (C, G) / SC8830 / SC9830 Android 4.4-7.X platforms (not tested on other CPUs) much faster.
 
@@ -36,7 +44,16 @@ MANDATORY READING README.TXT
 
 Performance on smartphones Samsung, HTC does not guarantee
 
-Instruction: 
-It's easy, we throw everything into the ROM folder from the firmware folder that we want to port, to the STOCK folder we drop everything from the system folder of your device. Then double-click to start PortingTool.bat, the process goes through and everything is ready. We drop everything from the ROM folder into the system folder. In case of detection of bugs, launch * .bat (* - what needs to be fixed) and is ready.
+Manual
+------------------------------
+For starters, we need two archives. Archive with the stock firmware, and the firmware you want to port.
+
+    Open both archives and extract the system folder from them, and unpack it into a place convenient for you;
+    Swing Spreadtrum Porting Tool from the header;
+    Extract the contents to any folder;
+    Copy the contents of the system folder from the stream to the stock folder and the contents of the system folder from the port to the port folder from the unpacked Spreadtrum Porting Tool;
+    Next, select the .bat file PortingTool.bat and wait for the process to finish;
+
+In the port folder there will be ported system content from the port. It remains only to create an archive for the firmware and test it. If necessary, run * .bat (where * is what you need to fix)
 
 P.S. Sorry for my English
