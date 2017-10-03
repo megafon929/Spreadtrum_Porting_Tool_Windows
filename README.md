@@ -46,6 +46,7 @@ MANDATORY READING README.TXT
 Performance on smartphones Samsung, HTC does not guarantee
 
 Manual
+
 For starters, we need two archives. Archive with the stock firmware, and the firmware you want to port.
 • Open both archives and extract the system folder from them, and unpack it into a place convenient for you
 • Swing Spreadtrum Porting Tool from the header
