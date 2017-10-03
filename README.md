@@ -19,11 +19,11 @@ Russian
 Инструкция
 
 Для начала, нам нужно два архива. Архив со стоковой прошивкой, и прошивкой, которую хотим портировать.
-•Открываем оба архива и достаем из них папку system, и распаковываем в удобное для вас место
-•Качаем Spreadtrum Porting Tool из шапки
-•Распаковываем содержимое в любую папку
-•Копируем содержимое папки system со стока в папку stock и содержимое папки system от порта в папку  port  от распакованного архива Spreadtrum Porting Tool
-•Далее выбираем .bat файл PortingTool.bat и ждём завершения процесса
+1) Открываем оба архива и достаем из них папку system, и распаковываем в удобное для вас место;
+2) Качаем Spreadtrum Porting Tool из шапки;
+3) Распаковываем содержимое в любую папку;
+4) Копируем содержимое папки system со стока в папку stock и содержимое папки system от порта в папку  port  от распакованного архива Spreadtrum Porting Tool;
+5) Далее выбираем .bat файл PortingTool.bat и ждём завершения процесса;
 
 В папке port будет находиться портированное содержимое system от порта. Осталось только создать архив для прошивки и протестировать.
 
@@ -48,11 +48,11 @@ Performance on smartphones Samsung, HTC does not guarantee
 Manual
 
 For starters, we need two archives. Archive with the stock firmware, and the firmware you want to port.
-• Open both archives and extract the system folder from them, and unpack it into a place convenient for you
-• Swing Spreadtrum Porting Tool from the header
-• Extract the contents to any folder
-• Copy the contents of the system folder from the stream to the stock folder and the contents of the system folder from the port to the port folder from the unpacked Spreadtrum Porting Tool
-• Next, select the .bat file PortingTool.bat and wait for the process to finish
+1) Open both archives and extract the system folder from them, and unpack it into a place convenient for you;
+2) Swing Spreadtrum Porting Tool from the header;
+3) Extract the contents to any folder;
+4) Copy the contents of the system folder from the stream to the stock folder and the contents of the system folder from the port to the port folder from the unpacked Spreadtrum Porting Tool;
+5) Next, select the .bat file PortingTool.bat and wait for the process to finish;
 In the port folder there will be ported system content from the port. It remains only to create an archive for the firmware and test it.
 If necessary, run * .bat (where * is what you need to fix)
 P.S. Sorry for my English
